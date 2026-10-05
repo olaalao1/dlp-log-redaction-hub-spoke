@@ -1,0 +1,5 @@
+hub_project_id                  = "vertex-security-4f90bf"
+spoke_project_id                = "gemini-cyber"
+region                          = "us-central1"
+focal_agent_display_name        = "spotify-3lo-agent"
+focal_agent_reasoning_engine_id = "5018221096948727808"
